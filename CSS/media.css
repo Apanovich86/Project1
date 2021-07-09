@@ -1,0 +1,138 @@
+@media screen and (max-width: 480px) {
+    .header_menu, .first_screen__right, .second_screen__left, .third_screen img, .fifth_screen_right, .sixth_screen_right, .eight_screen_column img {
+        display: none;
+    }
+
+    .wrapper {
+        padding: 0 20px;
+    }
+
+    .button_talk__to__us {
+        position: inherit;
+    }
+
+    .first_screen__grid h1 {
+        font-size: 60px;
+        line-height: 73px;
+    }
+
+    .mobile_menu__button {
+        display: flex;
+    }
+
+    .first_screen__right {
+
+    }
+
+    .second_screen__right h2 {
+        font-size: 52px;
+        line-height: 63px;
+        margin-bottom: 17px;
+    }
+
+    .third_screen h2 {
+        font-size: 48px;
+        padding-top: 40px;
+        text-align: center;
+    }
+
+    /*.wrap_body {*/
+    /*    width: 439px;*/
+    /*}*/
+
+    .third_screen_column {
+        display: block;
+    }
+
+    .third_screen_left, .third_screen_middle, .third_screen_right {
+        max-width: 439px;
+        padding-top: 22px;
+    }
+
+    .pink_button {
+        margin-top: 35px;
+        margin-left: 90px;
+    }
+
+    .fourth_screen {
+        margin-top: 35px;
+    }
+
+    .fourth_screen h2 {
+        font-size: 48px;
+        line-height: 48px;
+        padding: 48px 0;
+    }
+
+    .fourth_screen_column {
+        display: block;
+    }
+
+    .fourth_screen h2 {
+        padding-bottom: 0;
+    }
+
+    .fourth_screen_left, .fourth_screen_middle, .fourth_screen_right {
+        max-width: 439px;
+        padding-bottom: 22px;
+    }
+
+    .fourth_screen_left img, .fourth_screen_middle img, .fourth_screen_right img {
+        padding-top: 0;
+    }
+
+    .fifth_screen_left {
+        padding-top: 50px;
+        padding-left: 30px;
+        max-width: 439px;
+    }
+
+    .fifth_screen {
+        display: block;
+    }
+
+    .sixth_screen_left h3 {
+        font-size: 38px;
+        line-height: 38px;
+        padding-top: 50px;
+    }
+
+    .sixth_screen_left p {
+        padding-top: 20px;
+    }
+
+    .sixth_screen_left button {
+        margin-left: 135px;
+        margin-bottom: 35px;
+    }
+
+    .seventh_screen h3 {
+        font-size: 26px;
+        line-height: 30px;
+        padding-top: 30px;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .seventh_screen p {
+        line-height: 31px;
+        padding-top: 10px;
+        max-width: 480px;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .seventh_screen {
+        border-radius: 0;
+        height: 283px;
+        margin: 0;
+        display:block;
+    }
+    .black_btn{
+        top: 150px;
+        right: 170px;
+    }
+    .eight_screen_column{
+        display:block;
+    }
+}
